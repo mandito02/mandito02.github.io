@@ -9,7 +9,7 @@
     margin-left: -10px;
     position: fixed;
     background-image: url(TRIMER.png);
-    background-size: contain;
+    background-size: cover;
     color: aliceblue;
     font-family: sans-serif;
     align-items: center;
